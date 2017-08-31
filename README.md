@@ -1,0 +1,3 @@
+This Repository contains all the solutions of HackerRank problems...
+
+Happy coding..
