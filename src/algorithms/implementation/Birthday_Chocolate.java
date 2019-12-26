@@ -10,8 +10,8 @@ public class Birthday_Chocolate {
     static int birthday(List<Integer> s, int d, int m) {
         int count = 0;
         for (int i = 0; i <= s.size() - m; i++) {
-            int a = i + m;
-            List<Integer> subList = s.subList(i, a);
+            int numberToLookFor = i + m;
+            List<Integer> subList = s.subList(i, numberToLookFor);
             int sum = subList.stream().mapToInt(Integer::intValue).sum();
             if (sum == d)
                 count++;
