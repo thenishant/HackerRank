@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aa0a53e-21ba-40bd-8ecf-36a908ef514d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/implementation/Designer_PDF_Viewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/implementation/Designer_PDF_Viewer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="add_unversioned_files" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533475052143" />
     <property name="last.edited.regexp" value="" />
@@ -198,6 +199,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1578239700430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1578239700430" />
     <state x="569" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577299017432">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -210,54 +215,62 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="465" y="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1577895655292" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1578166062362">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1578240547539">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.0.bottom/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860470" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578166062362" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578240547539" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578240152542" />
     <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1578164643982" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1578166062361">
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1578240547536">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.0.center/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860469" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578166062361" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578240547536" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1578240152540" />
     <state width="1398" height="224" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1578164643981" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1578166062360">
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1578240547535">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.0.left/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860468" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578166062360" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578240547535" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1578240152540" />
     <state width="1398" height="224" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1578164643981" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1578166062362">
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1578240547538">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.0.right/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860469" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578166062362" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578240547538" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1578240152541" />
     <state width="1398" height="224" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1578164643982" />
-    <state width="1398" height="321" key="GridCell.Tab.1.bottom" timestamp="1578165703253">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1578240547541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.1.bottom/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860472" />
-    <state width="1398" height="321" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578165703253" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578240547541" />
     <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1577629527003" />
-    <state width="1398" height="321" key="GridCell.Tab.1.center" timestamp="1578165703252">
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1578240547540">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.1.center/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860471" />
-    <state width="1398" height="321" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1578165703252" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1578240547540" />
     <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1577629527001" />
-    <state width="1398" height="321" key="GridCell.Tab.1.left" timestamp="1578165703252">
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1578240547539">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.1.left/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860470" />
-    <state width="1398" height="321" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1578165703252" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1578240547539" />
     <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1577629527000" />
-    <state width="1398" height="321" key="GridCell.Tab.1.right" timestamp="1578165703253">
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1578240547541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="321" key="GridCell.Tab.1.right/0.0.1440.900/-240.-1080.1920.1080@0.0.1440.900" timestamp="1577942860471" />
-    <state width="1398" height="321" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1578165703253" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1578240547541" />
     <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1577629527002" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578240502691">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1578240502691" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -289,97 +302,10 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algorithms/implementation/Designer_PDF_Viewer.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="34" />
+          <line>17</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>9</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>HackerRank</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8 (1)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

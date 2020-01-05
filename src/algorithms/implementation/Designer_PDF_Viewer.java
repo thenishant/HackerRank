@@ -1,18 +1,22 @@
 package algorithms.implementation;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
 public class Designer_PDF_Viewer {
 
     static int designerPdfViewer(int[] h, String word) {
-        int length = word.length();
-        int[] h1 = new int[length];
-        for (int i = 0; i < length; i++) {
-            h1[i] = ((word.charAt(i)) - 96);
-            int i1 = h[h1[i] - 1];
-        }
-        return h1[length - 1] * length;
+        int lengthOfTheWord = word.length();
+        int[] positionOfChar = new int[lengthOfTheWord];
+        int[] sizeOfChar = new int[lengthOfTheWord];
+        IntStream.range(0, lengthOfTheWord).forEach(i -> {
+            positionOfChar[i] = (word.charAt(i) - 96);
+            sizeOfChar[i] = h[positionOfChar[i] - 1];
+        });
+        Arrays.sort(sizeOfChar);
+        return sizeOfChar[lengthOfTheWord - 1] * lengthOfTheWord;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
